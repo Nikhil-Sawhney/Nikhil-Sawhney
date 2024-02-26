@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/nksawhney](https://www.datascienceportfol.io/nksawhney)
 
-- 📝 I write articles on [https://medium.com/@nikk996](https://medium.com/@nikk996)
+- 📝 I write articles on [https://medium.com/@nikk996](https://medium.com/@nks96)
 
 - 📫 How to reach me **nksawhney96@gmail.com**
 
