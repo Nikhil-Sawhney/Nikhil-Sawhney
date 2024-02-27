@@ -1,7 +1,7 @@
 <h1 align="center">Hello there👋🏼, Welcome to my profile.</h1>
 <h3 align="center">
   </h3>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/merixstudio/mrx-flutter-charts/master/screenshots/chart_group_bar.gif">
+<img align="right" alt="Coding" width="300" src="![image](https://github.com/Nikhil-Sawhney/Nikhil-Sawhney/assets/134135837/9aa673d8-5ad2-47d1-a101-d9fe967e9868)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nks96&label=Profile%20views&color=0e75b6&style=flat" alt="nks96" /> </p>  
