@@ -1,7 +1,7 @@
 <h1 align="center">Hello there👋🏼, Welcome to my profile.</h1>
 <h3 align="center">
   </h3>
-<img align="right" alt="Coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif">
+<img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2019/07/state2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nks96&label=Profile%20views&color=0e75b6&style=flat" alt="nks96" /> </p>
 
@@ -23,8 +23,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhilsawhney96/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nks96) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NikhilSawhney_) 
-
-![](https://github-readme-stats.vercel.app/api?username=Nikhil-Sawhney&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Nikhil-Sawhney&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
 
