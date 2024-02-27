@@ -1,7 +1,7 @@
 <h1 align="center">Hello there👋🏼, Welcome to my profile.</h1>
 <h3 align="center">
   </h3>
-
+<img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2019/07/state2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nks96&label=Profile%20views&color=0e75b6&style=flat" alt="nks96" /> </p>  
 
@@ -20,8 +20,6 @@
 
 - ⚡ Fun fact **I am an Ambivert**
 
-<img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2019/07/state2.gif">
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Sawhney&theme=jolly&hide_border=true)<br/>
 
 
 
