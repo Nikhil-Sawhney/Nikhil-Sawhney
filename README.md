@@ -1,3 +1,4 @@
+![logo](https://github.com/Nikhil-Sawhney/Nikhil-Sawhney/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(4).png)
 <h1 align="center">Hello there👋🏼, Welcome to my profile.</h1>
 <h3 align="center">
   </h3>
