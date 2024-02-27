@@ -1,23 +1,19 @@
-<h1 align="center">Hello there👋🏼, Welcome to my profile.</h1>
-<h3 align="center">
-  </h3>
-<img align="right" alt="Coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nks96&label=Profile%20views&color=0e75b6&style=flat" alt="nks96" /> </p>
+# 💫 About Me:
+🌱 I’m currently looking for a job related to Data Analytics / BI Developer<br><br>👨‍💻I love using tools like Power BI, MySQL and Excel to convey my analysis and bring useful insights for decision making.<br><br>👨‍💻 All of my projects are available at https://www.datascienceportfol.io/nksawhney<br><br>📝 I write articles on https://medium.com/@nikk996<br><br>📫 How to reach me nksawhney96@gmail.com<br><br>⚡ Fun fact I am an Ambivert
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhilsawhney96/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nks96) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NikhilSawhney_) 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nikhil-Sawhney&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Sawhney&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Sawhney&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently looking for a job related to **Data Analytics / BI Developer**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 👨‍💻I love using tools **like Power BI, MySQL and Excel to convey my analysis and bring useful insights for decision making.**
+---
+[![](https://visitcount.itsvg.in/api?id=Nikhil-Sawhney&icon=1&color=0)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/nksawhney](https://www.datascienceportfol.io/nksawhney)
-
-- 📝 I write articles on [https://medium.com/@nikk996](https://medium.com/@nks96)
-
-- 📫 How to reach me **nksawhney96@gmail.com**
-
-- ⚡ Fun fact **I am an Ambivert**
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
