@@ -1,7 +1,7 @@
 <h1 align="center">Hello there👋🏼, Welcome to my profile.</h1>
 <h3 align="center">
   </h3>
-<img align="right" alt="Coding" width="300" length="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA7_FigdEmeiMMKng1fybNUjZ49OkGfka5-w&usqp=CAU">
+<img align="right" alt="Coding" width="300" length="400" src="https://cdn.dribbble.com/users/1952679/screenshots/10713835/media/b1faf68e884488533ee677c0310b9abd.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nks96&label=Profile%20views&color=0e75b6&style=flat" alt="nks96" /> </p>  
