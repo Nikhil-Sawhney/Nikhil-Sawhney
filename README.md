@@ -1,4 +1,4 @@
-![logo](https://github.com/Nikhil-Sawhney/Nikhil-Sawhney/blob/main/Git%20banner%20image.png)
+![logo](https://github.com/Nikhil-Sawhney/Nikhil-Sawhney/blob/main/git%20banner.png)
 
 <h3 align="center">
   </h3>
