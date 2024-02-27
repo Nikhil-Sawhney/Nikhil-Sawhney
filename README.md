@@ -21,8 +21,6 @@
 - ⚡ Fun fact **I am an Ambivert**
 
 
-
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Sawhney&theme=jolly&hide_border=true)<br/>
 <img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2019/07/state2.gif">
 
