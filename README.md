@@ -38,7 +38,6 @@
 <hr/>
 
 <h3 align"center">
-  <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.herokuapp.com/? 
 font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&liness=Thanks+for+visiting!+✌🏼;+Shoot+me+a+message+on+LindedIn!; I'm+always+down+to+collab+:)">
      </h3>
