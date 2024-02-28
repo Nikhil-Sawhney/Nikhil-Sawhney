@@ -7,7 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nks96&label=Profile%20views&color=0e75b6&style=flat" alt="nks96" /> </p>  
 
- 
+ <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+
 
 - 🌱 I’m currently looking for a job related to **Data Analytics / BI Developer**
 
