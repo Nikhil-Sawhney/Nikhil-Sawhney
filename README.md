@@ -32,6 +32,7 @@
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://www.datascienceportfol.io/nksawhney" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+</div>
 
 
 <div align="center">
