@@ -9,14 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nks96&label=Profile%20views&color=0e75b6&style=flat" alt="nks96" /> </p>  
 
  
-<div align="center"> 
-  <a href="nksawhney96@gmail.com@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/nikhilsawhney96/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-
-</div>
 
 - 🌱 I’m currently looking for a job related to **Data Analytics / BI Developer**
 
@@ -28,8 +20,7 @@
 
 - 📫 How to reach me **nksawhney96@gmail.com**
 
-  </div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhilsawhney96/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nks96) 
 
 
 <div align="center">
